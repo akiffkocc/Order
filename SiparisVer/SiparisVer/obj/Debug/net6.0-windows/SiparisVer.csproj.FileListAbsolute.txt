@@ -1,0 +1,7 @@
+C:\Users\akifk\source\repos\EntityFramework\SiparisVer\SiparisVer\obj\Debug\net6.0-windows\SiparisVer.csproj.AssemblyReference.cache
+C:\Users\akifk\source\repos\EntityFramework\SiparisVer\SiparisVer\obj\Debug\net6.0-windows\SiparisVer.Form1.resources
+C:\Users\akifk\source\repos\EntityFramework\SiparisVer\SiparisVer\obj\Debug\net6.0-windows\SiparisVer.csproj.GenerateResource.cache
+C:\Users\akifk\source\repos\EntityFramework\SiparisVer\SiparisVer\obj\Debug\net6.0-windows\SiparisVer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\source\repos\EntityFramework\SiparisVer\SiparisVer\obj\Debug\net6.0-windows\SiparisVer.AssemblyInfoInputs.cache
+C:\Users\akifk\source\repos\EntityFramework\SiparisVer\SiparisVer\obj\Debug\net6.0-windows\SiparisVer.AssemblyInfo.cs
+C:\Users\akifk\source\repos\EntityFramework\SiparisVer\SiparisVer\obj\Debug\net6.0-windows\SiparisVer.csproj.CoreCompileInputs.cache
